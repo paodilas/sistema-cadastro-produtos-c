@@ -1,0 +1,27 @@
+# Binarios e objetos compilados
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+cadastro
+
+# Pastas de build
+build/
+bin/
+obj/
+
+# Arquivos de dados gerados pelo programa
+*.dat
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
